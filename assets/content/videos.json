@@ -1,0 +1,430 @@
+[{
+  "videoBaseUrl": "https://s3-eu-west-1.amazonaws.com/uclvideo/",
+  "videos": [
+      {
+      "id": 0,
+      "name": "Patient positioning, prepping & draping",
+      "totalTime": "40",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_01_3000Kbps_720p",
+        "quality": ["high"],
+        "image": "part1.jpg",
+        "thumb": "part1_thumb.jpg",
+        "mob": "part1_mob.jpg"
+      },
+      "info":{
+        "hash": "patient_positioning_prepping_draping",
+        "header": "Patient positioning, prepping & draping",
+        "desc": "In theatre, the consented and appropriately anaesthetized patient is first positioned. For a posterior approach to the hip, the patient is placed in the lateral position, with the appropriate hip facing upwards. Side-supports are used to hold the patient firmly during the procedure, with the pelvis perpendicular to the floor. The patient is prepped and draped, with care taken to ensure that the posterior drape is far enough back so as to allow room for the proximal extent of the skin incision."
+      },
+      "cue": [
+        {
+          "content": {
+            "title": "Patient positioning, prepping & draping",
+            "body": "Patient transferred onto operating table"
+          },
+          "start": "6",
+          "end": "10"
+        },
+        {
+          "content": {
+            "title": "Patient positioning, prepping & draping",
+            "body": "Patient turned to lateral position, with anterior and posterior supports"
+          },
+          "start": "15",
+          "end": "19"
+        },
+        {
+          "content": {
+            "title": "Patient positioning, prepping & draping",
+            "body": "Lights are adjusted to ensure optimal position before operation begins"
+          },
+          "start": "22",
+          "end": "25"
+        },
+        {
+          "content": {
+            "title": "Patient positioning, prepping & draping",
+            "body": "Patient prepped and draped"
+          },
+          "start": "26",
+          "end": "30"
+        }
+
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Incision & approach",
+      "totalTime": "158",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_02_3000Kbps_720p",
+        "quality": ["high"],
+        "image": "part2.jpg",
+        "thumb": "part2_thumb.jpg",
+        "mob": "part2_mob.jpg"
+      },
+      "info":{
+        "hash": "incision_approach",
+        "header": "Incision & approach",
+        "desc": "The skin incision is centred on the posterior aspect of the greater trochanter. Distally the incision runs in line with femur and proximally it curves posteriorly. The skin and subcutaneous fat are incised, with meticulous attention to haemostasis along the way. A self-retaining retractor is used to separate the fat and aid dissection down on to the underlying fascia. Once the fascia is visible, the overlying fat is swept from it to further delineate it. The greater trochanter is palpated beneath the fascia to guide the deeper dissection. The fascia is incised distally down on to the trochanter, revealing Vastus Lateralis. Cutting diathermy is subsequently used to incise the fascia proximally, and the muscle fibres of Gluteus Maximus are split, usually with blunt dissection. A Charnley retractor can then be used to retract the fascia, revealing the underlying greater trochanter. Any bursal tissue overlying the greater trochanter can be incised."
+      },
+      "cue": [
+        {
+          "content": {
+            "title": "Incision & approach",
+            "body": "Skin incision centred on posterior aspect of trochanter"
+          },
+          "start": "5",
+          "end": "9"
+        },
+        {
+          "content": {
+            "title": "Incision & approach",
+            "body": "Skin & subcutaneous fat incised, with meticulous haemostasis"
+          },
+          "start": "22",
+          "end": "26"
+        },
+        {
+          "content": {
+            "title": "Incision & approach",
+            "body": "Fascia incised distally / Gluteus Maximus fibres split proximally"
+          },
+          "start": "84",
+          "end": "88"
+        },
+        {
+          "content": {
+            "title": "Incision & approach",
+            "body": "Charnley retractor used to retract fascia"
+          },
+          "start": "133",
+          "end": "137"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Deep dissection, hip dislocation & femoral neck cut",
+      "totalTime": "156",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_03_3000Kbps_720p",
+        "quality": ["high"],
+        "image": "part3.jpg",
+        "thumb": "part3_thumb.jpg",
+        "mob": "part3_mob.jpg"
+      },
+      "info":{
+        "hash": "deep_dissection_hip_dislocation_femoral_neck_cut",
+        "header": "Deep dissection / hip dislocation / femoral neck cut",
+        "desc": "The foot is then lifted up on to a Mayo table, internally rotating the hip. This enables the posterior aspect of the hip to come into view, and helps in identifying the short external rotators. At this point, the sciatic nerve is palpated so that its path can be identified over the base of the short external rotators and it can be subsequently protected throughout the procedure. The posterior edge of Gluteus Medius is identified, and a retractor is used to retract it out of the way. With a large swab, the fat is swept backwards off the short external rotators, and Piriformis is identified inserting on to the posterior aspect of the greater trochanter. A stay-stitch can be placed in Piriformis to aid closure at the end of the procedure. The short external rotators are detached from their femoral insertion and reflected backwards to help protect the sciatic nerve. A capsulotomy is subsequently performed, revealing the underlying femoral neck and head, up to the acetabular rim. The hip is then carefully dislocated by flexion and gentle internal rotation, bringing the lower leg into a vertical position. Any resistance to dislocation is usually due to remnant tight capsule which must be identified and released accordingly. The femoral neck is cut in accordance with the pre-operative plan, usually a finger-breadth above the lesser trochanter. Care must be taken at this point to protect the greater trochanter. Once cut, the femoral head is extracted."
+      },
+      "cue": [
+        {
+          "content": {
+            "title": "Deep dissection / hip dislocation / femoral neck cut",
+            "body": "Hip internally rotated by placing foot on Mayo table"
+          },
+          "start": "1",
+          "end": "5"
+        },
+        {
+          "content": {
+            "title": "Deep dissection / hip dislocation / femoral neck cut",
+            "body": "Sciatic nerve identified"
+          },
+          "start": "27",
+          "end": "31"
+        },
+        {
+          "content": {
+            "title": "Deep dissection / hip dislocation / femoral neck cut",
+            "body": "Short-external rotators detached from trochanter"
+          },
+          "start": "36",
+          "end": "40"
+        },
+        {
+          "content": {
+            "title": "Deep dissection / hip dislocation / femoral neck cut",
+            "body": "Capsulotomy"
+          },
+          "start": "74",
+          "end": "78"
+        },
+        {
+          "content": {
+            "title": "Deep dissection / hip dislocation / femoral neck cut",
+            "body": "Hip dislocated"
+          },
+          "start": "93",
+          "end": "97"
+        },
+        {
+          "content": {
+            "title": "Deep dissection / hip dislocation / femoral neck cut",
+            "body": "Femoral neck cut"
+          },
+          "start": "110",
+          "end": "114"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Preparing the femur",
+      "totalTime": "87",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_04_3000Kbps_720p",
+        "quality": ["high"],
+        "image": "part4.jpg",
+        "thumb": "part4_thumb.jpg",
+        "mob": "part4_mob.jpg"
+      },
+      "info":{
+        "hash": "preparing_the_femur",
+        "header": "Preparing the femur",
+        "desc": "The hip is kept internally rotated, with the lower leg vertically up towards the ceiling, bringing the proximal femur into view. A box-chisel is used to enter the femoral canal, ensuring that adequate bone is removed laterally. T-handled reamers are used to open the medullary canal. Sequential broaches are used specific to type of femoral stem to be used. In the case of an uncemented femoral stem, sequential broaches are used, gradually increasing in size, until there is no further subsidence and rotational stability is achieved. The broaches should be inserted in approximately 10 - 15 degrees of anteversion, since the definitive implant will follow the path of the broaches. The femoral component can then be sized accordingly. The broach can be left in the femur whilst the acetabulum is prepared, ready for trialing at a later stage."
+      },
+      "cue": [
+        {
+          "content": {
+            "title": "Preparing the femur",
+            "body": "Box-chisel used to enter the proximal femur"
+          },
+          "start": "2",
+          "end": "6"
+        },
+        {
+          "content": {
+            "title": "Preparing the femur",
+            "body": "T-handled reamers used to open medullary canal"
+          },
+          "start": "17",
+          "end": "21"
+        },
+        {
+          "content": {
+            "title": "Preparing the femur",
+            "body": "Sequential broaches used until axial and rotational stability is achieved"
+          },
+          "start": "33",
+          "end": "37"
+        },
+        {
+          "content": {
+            "title": "Preparing the femur",
+            "body": "Broach can be left in femur while acetabulum is prepared"
+          },
+          "start": "85",
+          "end": "89"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Preparing the acetabulum",
+      "totalTime": "307",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_05_3000Kbps_720p",
+        "quality": ["high"],
+        "image": "part5.jpg",
+        "thumb": "part5_thumb.jpg",
+        "mob": "part5_mob.jpg"
+      },
+      "info":{
+        "hash": "preparing_the_acetabulum",
+        "header": "Preparing the acetabulum",
+        "desc": "The acetabulum is exposed by bringing the leg back down in to the neutral position and placing a Hohman retractor antero-inferiorly, under the inferior acetabular margin, retracting the proximal femur anteriorly. Additional Hohman retractors and a self-retaining retractor can be used where necessary to optimise acetabular exposure. The acetabular labrum is excised circumferentially and remnant ligamentum is cleared from the acetabulum. Releasing the capsule inferiorly will allow it to retract, improving exposure, and aiding visualisation of the transverse acetabular ligament. The acetabulum is then carefully reamed with sequential reamers, with the aim of achieving a concentric bleeding subchondral surface, down to the true acetabular floor. Care must be taken throughout the reaming process that the medial wall is not breeched, and the anterior and posterior walls are regularly palpated to ensure sufficient remaining bone stock. In the case of an uncemented acetabular component, a ‘trial’ is used with alignment rods to ensure correct sizing, coverage and stability. This determines the size of the definitive acetabular shell to be used."
+      },
+      "cue": [
+        {
+          "content": {
+            "title": "Preparing the acetabulum",
+            "body": "Acetabulum exposed"
+          },
+          "start": "9",
+          "end": "13"
+        },
+        {
+          "content": {
+            "title": "Preparing the acetabulum",
+            "body": "Sequential reaming to obtain concentric bleeding subchondral bone"
+          },
+          "start": "121",
+          "end": "125"
+        },
+        {
+          "content": {
+            "title": "Preparing the acetabulum",
+            "body": "Acetabular ‘trial’"
+          },
+          "start": "237",
+          "end": "241"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Implanting the definitive acetabular shell",
+      "totalTime": "51",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_06_3000Kbps",
+        "quality": ["high"],
+        "image": "part6.jpg",
+        "thumb": "part6_thumb.jpg",
+        "mob": "part6_mob.jpg"
+      },
+      "info":{
+        "hash": "implanting_the_definitive_acetabular_shell",
+        "header": "Implanting the definitive acetabular shell",
+        "desc": "The definitive acetabular component is then implanted with close attention to positioning. Alignment rods and reference to the transverse acetabular ligament help guide the correct orientation of the prosthesis. The aim is to implant the acetabular component with 15 - 25 degrees of anteversion, and 40 - 45 degrees of inclination, in order to maximise stability and minimise the risk of dislocation. After implantation, it is ensured that the prosthesis is seated fully and is stable. Screws can be used to augment the fixation if required. The implanted prosthesis is irrigated."
+      },
+      "cue": [
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Implanting the definitive acetabular liner",
+      "totalTime": "55",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_07_3000Kbps",
+        "quality": ["high"],
+        "image": "part7.jpg",
+        "thumb": "part7_thumb.jpg",
+        "mob": "part7_mob.jpg"
+      },
+      "info":{
+        "hash": "implanting_the_definitive_acetabular_liner",
+        "header": "Implanting the definitive acetabular liner",
+        "desc": "Following implantation of the acetabular shell, the liner is inserted. A variety of liners are available, either in ceramic or polyethylene. A number of factors may determine which liner is used, including the size of the shell, the size of the desired femoral head, the preference of the operating surgeon, or the need to help with offset or stability using lateralised or hooded liners."
+      },
+      "cue": [
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Trialing the hip",
+      "totalTime": "121",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_08_3000Kbps",
+        "quality": ["high"],
+        "image": "part8.jpg",
+        "thumb": "part8_thumb.jpg",
+        "mob": "part8_mob.jpg"
+      },
+      "info":{
+        "hash": "trialing_the_hip",
+        "header": "Trialing the hip",
+        "desc": "A trial femoral head and neck are attached to the broach within the femur and the hip is subsequently trialed. The aim during trialing is to ensure that offset and leg length are restored, with a stable hip that does not impinge. Stability is checked particularly in flexion and internal rotation. Different offset and lengths of necks and heads can be trialed until the surgeon is satisfied with all the above parameters."
+      },
+      "cue": [
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Implanting the definitive femoral stem",
+      "totalTime": "97",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_09_3000Kbps",
+        "quality": ["high"],
+        "image": "part9.jpg",
+        "thumb": "part9_thumb.jpg",
+        "mob": "part9_mob.jpg"
+      },
+      "info":{
+        "hash": "implanting_the_definitive_femoral_stem",
+        "header": "Implanting the definitive femoral stem",
+        "desc": "Once the trialing is deemed satisfactory, the definitive femoral stem is implanted. The implanted stem follows the path of the previously implanted broaches. The aim is for the stem to be placed in approximately 10 - 15 degrees of anteversion, to optimise stability. Once the femoral stem is implanted, the definitive head is impacted onto the neck, and the hip is reduced.  "
+      },
+      "cue": [
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Closure",
+      "totalTime": "201",
+      "source": {
+        "type": ["mp4", "webm"],
+        "name": "SECTION_10_3000Kbps",
+        "quality": ["high"],
+        "image": "part10.jpg",
+        "thumb": "part10_thumb.jpg",
+        "mob": "part10_mob.jpg"
+      },
+      "info":{
+        "hash": "closure",
+        "header": "Closure",
+        "desc": "After washout and infiltration of local anaesthetic, the capsule and external rotators are repaired. This is usually performed with trans-osseous sutures through drill holes in the greater trochanter. The Charnley retractor is then removed and the fascia is repaired with heavy Vicryl sutures. 2/O Vicryl is used for deep dermal closure and then either surgical clips or sub-cuticular absorbable suture is used for the skin. An Opsite dressing and pressure dressing are subsequently applied."
+      },
+      "cue": [
+        {
+          "content": {
+            "title": "Closure",
+            "body": "Sutures placed in capsule and short external rotators"
+          },
+          "start": "8",
+          "end": "12"
+        },
+        {
+          "content": {
+            "title": "Closure",
+            "body": "Capsule and external rotators repaired through trochanteric drill-holes"
+          },
+          "start": "66",
+          "end": "70"
+        },
+        {
+          "content": {
+            "title": "Closure",
+            "body": "Sciatic nerve re-checked"
+          },
+          "start": "119",
+          "end": "123"
+        },
+        {
+          "content": {
+            "title": "Closure",
+            "body": "Local anaesthetic infiltration"
+          },
+          "start": "125",
+          "end": "129"
+        },
+        {
+          "content": {
+            "title": "Closure",
+            "body": "Fascia repaired with heavy Vicryl"
+          },
+          "start": "145",
+          "end": "149"
+        },
+        {
+          "content": {
+            "title": "Closure",
+            "body": "Clips or sub-cuticular absorbable suture used for skin"
+          },
+          "start": "174",
+          "end": "178"
+        },
+        {
+          "content": {
+            "title": "Closure",
+            "body": "Opsite / pressure dressing"
+          },
+          "start": "184",
+          "end": "188"
+        }
+      ]
+    }
+  ]
+}]
